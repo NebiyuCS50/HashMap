@@ -1,6 +1,6 @@
 class HashMap {
   constructor() {
-    this.capacity;
+    this.capacity = 8;
     this.loadFactor;
     this.size;
     this.buckets;
